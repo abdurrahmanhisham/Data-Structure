@@ -1,3 +1,5 @@
+//Insert at beginning,mid,end   ---4-9-2022
+
 #include <stdio.h>
 #include <stdlib.h>
 void createlist(int n);
